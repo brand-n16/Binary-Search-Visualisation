@@ -86,7 +86,7 @@ python app.py
 
 ## Hugging Face Link
 
-(Will be added after deployment)
+https://huggingface.co/spaces/brand-n/Binary-Search-Visualiser
 
 ## Testing & Verification
 
@@ -111,4 +111,5 @@ Acknowledgments:
 - Professor Ruslan Kain
 - Gradio
 - Matplotlib (For bar graphics & visualisation)
+
 
