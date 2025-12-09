@@ -7,8 +7,6 @@ Screenshots of test cases
 ![Test: Target not in array](gradio-test-2.png)
 ![Test: Array with 10 elemenets](gradio-test-4.png)
 
----
-
 ## Problem Breakdown & Computational Thinking
 
 ### Why I Chose Binary Search
@@ -64,19 +62,17 @@ Compare array[mid] with target
 |--> Greater than?--> Set right = mid - 1, go back to "Is left <= right?"
 ```
 
----
-
 ## Steps to Run
 
 1. Install Python (latest version)
 
 2. Install dependencies in requirements.txt:
-```bash
+```
 pip install -r requirements.txt
 ```
 
 3. Run the app:
-```bash
+```
 python app.py
 ```
 
@@ -88,13 +84,9 @@ python app.py
    - Click "Start Search"
    - Use Next/Previous/Reset buttons or Auto-Play to see the algorithm work
 
----
-
 ## Hugging Face Link
 
 (Will be added after deployment)
-
----
 
 ## Testing & Verification
 
@@ -107,17 +99,16 @@ Successful tested cases:
 - Array with 50 elements
 - Auto-play at different speeds 
 
-*screenshots included above
----
+screenshots included above
 
 ## Author
 
-**Brandon Yip**  
+Brandon Yip
 CISC121 
 2025-12-09
 
-**Acknowledgments:**
+Acknowledgments:
 - Professor Ruslan Kain
 - Gradio
-
 - Matplotlib (For bar graphics & visualisation)
+
