@@ -3,9 +3,9 @@
 ## Demo
 
 Screenshots of test cases
-![Test: Target in the middle of array](images/gradio-test-1.png)
-![Test: Target not in array](images/gradio-test-2.png)
-![Test: Array with 10 elemenets](images/gradio-test-4.png)
+![Test: Target in the middle of array](gradio-test-1.png)
+![Test: Target not in array](gradio-test-2.png)
+![Test: Array with 10 elemenets](gradio-test-4.png)
 
 ---
 
@@ -119,4 +119,5 @@ CISC121
 **Acknowledgments:**
 - Professor Ruslan Kain
 - Gradio
+
 - Matplotlib (For bar graphics & visualisation)
